@@ -1,0 +1,4 @@
+C:\Users\anala\source\repos\tabalhobimestral\tabalhobimestral\obj\Debug\net8.0\tabalhobimestral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anala\source\repos\tabalhobimestral\tabalhobimestral\obj\Debug\net8.0\tabalhobimestral.AssemblyInfoInputs.cache
+C:\Users\anala\source\repos\tabalhobimestral\tabalhobimestral\obj\Debug\net8.0\tabalhobimestral.AssemblyInfo.cs
+C:\Users\anala\source\repos\tabalhobimestral\tabalhobimestral\obj\Debug\net8.0\tabalhobimestral.csproj.CoreCompileInputs.cache
